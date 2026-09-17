@@ -1,8 +1,8 @@
 # Agent guidance for snort3
 
-This repository has a companion knowledge wiki, **snort3-wiki**, kept in a
-separate repository (checked out as a sibling directory, `../snort3-wiki`,
-by default). The wiki synthesizes `doc/`, `README.md`, `ChangeLog.md`, and
+This repository has a companion knowledge wiki, **snort3-wiki**
+(https://github.com/satchm0h/snort3-wiki), kept in a separate repository and
+checked out as a sibling directory, `../snort3-wiki`, by default. The wiki synthesizes `doc/`, `README.md`, `ChangeLog.md`, and
 `src/**/dev_notes.txt` into cross-linked pages and stores per-project working
 state. Use it on every task; do not rediscover from raw docs what it already
 holds.
